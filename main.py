@@ -66,7 +66,14 @@
 # print(floor(3.55))
 # print(ceil(4.80))
 
-# zad5
+# # zad5
+#
+# imie, nazwisko = "MICHAŁ", "SIEKLICKI"
+# print(imie.capitalize() + " " + nazwisko.capitalize())
 
-imie, nazwisko = "MICHAŁ", "SIEKLICKI"
-print(imie.capitalize() + " " + nazwisko.capitalize())
+# zad 6
+
+tekst = "M.A.T , White, o, o, o, o, la la la la"
+
+print(tekst.count("o"))
+print(tekst.count("la"))
