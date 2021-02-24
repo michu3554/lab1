@@ -73,13 +73,18 @@
 
 # # zad 6
 #
-# tekst = "M.A.T , White, o, o, o, o, la la la la"
+# tekst = "M.A.T  White o o o o la la la la"
 #
 # print(tekst.count("o"))
 # print(tekst.count("la"))
 
-# zad7
+# # zad7
+#
+# lancuch = "Ala ma kota"
+# print(lancuch[1])
+# print(lancuch[-2])
 
-lancuch = "Ala ma kota"
-print(lancuch[1])
-print(lancuch[-2])
+# zad8
+
+tekst = "M.A.T  White o o o o la la la la"
+print(tekst.split())
