@@ -84,7 +84,16 @@
 # print(lancuch[1])
 # print(lancuch[-2])
 
-# zad8
+# # zad8
+#
+# tekst = "M.A.T  White o o o o la la la la"
+# print(tekst.split())
 
-tekst = "M.A.T  White o o o o la la la la"
-print(tekst.split())
+# zad 9
+
+a = "formatowanie"
+b = 3.14
+c = 0x123AF
+print('To jest podstawowe %(a)s lancucha.' % {'a': a})
+print('Przyblizenie liczby pi wynosi: %(b)f. ' % {'b': b})
+print('Liczba 74671 w systemie szczestnastkowym wynosi: %(c)X. ' % {'c': c})
