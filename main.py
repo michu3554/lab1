@@ -27,8 +27,13 @@ dodawanie = a + b
 odejmowanie = a - b
 mnozenie = a * b
 dzielenie = a / b
-
+dzielenie_calkowite = a // b
+reszta = b % a
+potega = a ** b
 print(dodawanie)
 print(odejmowanie)
 print(mnozenie)
 print(dzielenie)
+print(dzielenie_calkowite)
+print(reszta)
+print(potega)
