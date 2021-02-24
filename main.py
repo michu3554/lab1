@@ -38,19 +38,30 @@
 # print(reszta)
 # print(potega)
 
-# zad3
+# # zad3
+#
+# a = 5
+#
+# a += 1
+# print(a)
+# a -= 1
+# print(a)
+# a *= 2
+# print(a)
+# a /= 2
+# print(a)
+# a **= 2
+# print(a)
+# a %= 2
+# print(a)
 
-a = 5
+# zad4
 
-a += 1
-print(a)
-a -= 1
-print(a)
-a *= 2
-print(a)
-a /= 2
-print(a)
-a **= 2
-print(a)
-a %= 2
-print(a)
+from math import *
+
+print(e ** 10)
+
+print(log(5+sin(radians(8)**2)**(1/6)))
+
+print(floor(3.55))
+print(ceil(4.80))
