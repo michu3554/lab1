@@ -18,22 +18,39 @@
 # print(g)
 # print(h)
 
-# zad 2
+# # zad 2
+#
+# a = 10
+# b = 2
+#
+# dodawanie = a + b
+# odejmowanie = a - b
+# mnozenie = a * b
+# dzielenie = a / b
+# dzielenie_calkowite = a // b
+# reszta = b % a
+# potega = a ** b
+# print(dodawanie)
+# print(odejmowanie)
+# print(mnozenie)
+# print(dzielenie)
+# print(dzielenie_calkowite)
+# print(reszta)
+# print(potega)
 
-a = 10
-b = 2
+# zad3
 
-dodawanie = a + b
-odejmowanie = a - b
-mnozenie = a * b
-dzielenie = a / b
-dzielenie_calkowite = a // b
-reszta = b % a
-potega = a ** b
-print(dodawanie)
-print(odejmowanie)
-print(mnozenie)
-print(dzielenie)
-print(dzielenie_calkowite)
-print(reszta)
-print(potega)
+a = 5
+
+a += 1
+print(a)
+a -= 1
+print(a)
+a *= 2
+print(a)
+a /= 2
+print(a)
+a **= 2
+print(a)
+a %= 2
+print(a)
