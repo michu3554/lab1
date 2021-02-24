@@ -55,13 +55,18 @@
 # a %= 2
 # print(a)
 
-# zad4
+# # zad4
+#
+# from math import *
+#
+# print(e ** 10)
+#
+# print(log(5+sin(radians(8)**2)**(1/6)))
+#
+# print(floor(3.55))
+# print(ceil(4.80))
 
-from math import *
+# zad5
 
-print(e ** 10)
-
-print(log(5+sin(radians(8)**2)**(1/6)))
-
-print(floor(3.55))
-print(ceil(4.80))
+imie, nazwisko = "MICHAŁ", "SIEKLICKI"
+print(imie.capitalize() + " " + nazwisko.capitalize())
